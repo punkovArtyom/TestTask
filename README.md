@@ -1,7 +1,8 @@
-# Test task
+# Visibility test task
 
 ## Overview
 Unity 2019.3.0f6
+
 This is FOV-based visibility system with one target, many agents and one common manager. It's capable of detecting if target is in the proximity range of an agent, if it's in agent's FOV and if it's obscured by obstacle.
 
 ## How to use
